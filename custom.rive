@@ -1,0 +1,62 @@
++ hello
+- Hello! How can I assist you today?
+
++ hi
+- Hi there! How can I help?
+
++ how are you
+- I'm doing well, thank you for asking!
+
++ what is your name
+- My name is ChatBot. Nice to meet you!
+
++ * working hours
+- We work from 9am to 6pm. You can visit us on weekdays. Feel free to come and see our lovely flowers.
+
++ * visit * weekend
+- We only work on Weekdays
+
++ * come * weekend
+- We only work on Weekdays
+
++ * go * weekend
+- We only work on Weekdays
+
++ * stop by * weekend
+- We only work on Weekdays
+
++ bye
+- Bye, Have a nice day!
+
++ *
+- I'm sorry, I don't understand. Can you please rephrase that?
+
+
+
+
++ привет
+- Привет! Как я могу помочь вам сегодня?
+
++ как дела
+- У меня все хорошо, спасибо, что спросили!
+
++ как тебя зовут
+- Меня зовут ЧатБот. Рад встрече!
+
++ * рабочее время
+- Мы работаем с 9:00 до 18:00. Вы можете посетить нас в будние дни. Не стесняйтесь прийти и увидеть наши прекрасные цветы.
+
++ * посещение * выходные
+- Работаем только в будние дни
+
++ *приходи* выходные
+- Работаем только в будние дни
+
++ * идти * выходные
+- Работаем только в будние дни
+
++ * зайти * выходные
+- Работаем только в будние дни
+
++ пока
+- Пока хорошего дня!
